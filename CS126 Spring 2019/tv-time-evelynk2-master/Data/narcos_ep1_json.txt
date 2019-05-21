@@ -1,0 +1,21 @@
+{
+            "id":203469,
+            "url":"http://www.tvmaze.com/episodes/203469/narcos-1x01-descenso",
+            "name":"Descenso",
+            "season":1,
+            "number":1,
+            "airdate":"2015-08-28",
+            "airtime":"",
+            "airstamp":"2015-08-28T12:00:00+00:00",
+            "runtime":60,
+            "image":{
+               "medium":"http://static.tvmaze.com/uploads/images/medium_landscape/16/41472.jpg",
+               "original":"http://static.tvmaze.com/uploads/images/original_untouched/16/41472.jpg"
+            },
+            "summary":"<p>A Chilean drugsproducer, the chemist Cockroach, brings his product to the Colombian smuggler Pablo Escobar. DEA-Agent Steve Murphy is fighting drugs in Bogota.</p>",
+            "_links":{
+               "self":{
+                  "href":"http://api.tvmaze.com/episodes/203469"
+               }
+            }
+         }
